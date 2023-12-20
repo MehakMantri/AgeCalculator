@@ -1,6 +1,3 @@
-Certainly! Below is a detailed and descriptive README for an Age Calculator repository:
-
----
 
 # Age Calculator 🎂🕰️
 
